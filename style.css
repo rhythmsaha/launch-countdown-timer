@@ -7,8 +7,8 @@
 body {
     font-family: "Red Hat Text", sans-serif;
     background-color: hsl(235, 16%, 14%);
-    background-image: url("/images//bg-stars.svg"),
-        url("/images/pattern-hills.svg");
+    background-image: url("./images/bg-stars.svg"),
+        url("./images/pattern-hills.svg");
     background-repeat: no-repeat, no-repeat;
     background-size: 100%, 100px cover;
     background-position: top left, right bottom;
